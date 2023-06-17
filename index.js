@@ -207,6 +207,6 @@ function sap_xep_ten_theo_tuoi(arr) {
 
 /*TONG HOP*/
 //bai 1
-// function thoi_gian(time, x) {
+function thoi_gian(time, x) {
 
-// }
+}
